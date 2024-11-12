@@ -1,0 +1,30 @@
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+.venv/
+venv/
+
+# Distribution/Packaging
+*.egg
+*.egg-info/
+dist/
+build/
+
+# IDE/editor directories and files
+.idea/
+.vscode/
+*.swp
+
+# Operating System files
+.DS_Store  # macOS
+Thumbs.db  # Windows
+
+# Log files
+*.log
+
+# Kivy files (if generated dynamically)
+.kivy/
